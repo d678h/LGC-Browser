@@ -1,0 +1,12 @@
+D:\Programmazione\Visual Basic\LGC Browser\LGC Browser\bin\Debug\LGC Browser.exe.config
+D:\Programmazione\Visual Basic\LGC Browser\LGC Browser\bin\Debug\LGC Browser.exe
+D:\Programmazione\Visual Basic\LGC Browser\LGC Browser\bin\Debug\LGC Browser.pdb
+D:\Programmazione\Visual Basic\LGC Browser\LGC Browser\bin\Debug\LGC Browser.xml
+D:\Programmazione\Visual Basic\LGC Browser\LGC Browser\obj\Debug\LGC Browser.vbprojAssemblyReference.cache
+D:\Programmazione\Visual Basic\LGC Browser\LGC Browser\obj\Debug\LGC_Browser.Form1.resources
+D:\Programmazione\Visual Basic\LGC Browser\LGC Browser\obj\Debug\LGC_Browser.Resources.resources
+D:\Programmazione\Visual Basic\LGC Browser\LGC Browser\obj\Debug\LGC Browser.vbproj.GenerateResource.cache
+D:\Programmazione\Visual Basic\LGC Browser\LGC Browser\obj\Debug\LGC Browser.vbproj.CoreCompileInputs.cache
+D:\Programmazione\Visual Basic\LGC Browser\LGC Browser\obj\Debug\LGC Browser.exe
+D:\Programmazione\Visual Basic\LGC Browser\LGC Browser\obj\Debug\LGC Browser.xml
+D:\Programmazione\Visual Basic\LGC Browser\LGC Browser\obj\Debug\LGC Browser.pdb
